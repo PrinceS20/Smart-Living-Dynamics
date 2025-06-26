@@ -2,7 +2,8 @@
 This project is a final year capstone built to demonstrate how IoT, Machine Learning, and Computer Vision can work together to create a smart, touchless home automation system. The system automates the control of lights and fans based on room occupancy and allows users to control appliances using hand gestures, enhancing accessibility and energy efficiency.
 
 
-https://github.com/user-attachments/assets/c79eda24-76fd-42bb-bbc8-764eb7929bd8
+https://github.com/user-attachments/assets/ad743ded-7b05-4f5a-8a44-9e498dd9929a
+
 
 🔧 Features:
 Occupancy Detection:
