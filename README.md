@@ -1,6 +1,9 @@
 💡 Smart Home Automation System – IoT + Machine Learning + Computer Vision
 This project is a final year capstone built to demonstrate how IoT, Machine Learning, and Computer Vision can work together to create a smart, touchless home automation system. The system automates the control of lights and fans based on room occupancy and allows users to control appliances using hand gestures, enhancing accessibility and energy efficiency.
 
+
+https://github.com/user-attachments/assets/c79eda24-76fd-42bb-bbc8-764eb7929bd8
+
 🔧 Features:
 Occupancy Detection:
 Utilizes IR and ultrasonic sensors with Arduino to count people entering/exiting a room. Based on occupancy, the system turns lights/fans ON or OFF automatically.
@@ -14,7 +17,7 @@ The gesture recognition system communicates with the Arduino via serial ports, l
 🧠 Technologies Used:
 Python
 
-Arduino (C/C++)
+Arduino 
 
 OpenCV
 
